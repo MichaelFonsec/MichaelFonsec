@@ -81,4 +81,5 @@ Não hesite em entrar em contato comigo através das minhas redes sociais. Adoro
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
