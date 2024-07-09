@@ -54,6 +54,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
 
 ### Sobre Mim
@@ -75,11 +76,4 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
 
 Não hesite em entrar em contato comigo através das minhas redes sociais. Adoro conhecer novas pessoas e discutir ideias interessantes!
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichaelFonsec/MichaelFonsec/output/github-contribution-grid-snake.svg">
-</picture>
 
-###
